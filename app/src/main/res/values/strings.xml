@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crocodille</string>
+
+    <string name="waiting">Waiting for NFC tag</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Crocodille</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_list_violations">Crocodille</string>
+    <string name="title_activity_transaction_alert">Crocodille</string>
+</resources>
